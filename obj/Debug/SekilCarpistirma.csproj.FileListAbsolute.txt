@@ -1,0 +1,9 @@
+C:\Users\Reyhan\Desktop\Project\SekilCarpistirma\bin\Debug\SekilCarpistirma.exe.config
+C:\Users\Reyhan\Desktop\Project\SekilCarpistirma\bin\Debug\SekilCarpistirma.exe
+C:\Users\Reyhan\Desktop\Project\SekilCarpistirma\bin\Debug\SekilCarpistirma.pdb
+C:\Users\Reyhan\Desktop\Project\SekilCarpistirma\obj\Debug\SekilCarpistirma.csproj.AssemblyReference.cache
+C:\Users\Reyhan\Desktop\Project\SekilCarpistirma\obj\Debug\SekilCarpistirma.Properties.Resources.resources
+C:\Users\Reyhan\Desktop\Project\SekilCarpistirma\obj\Debug\SekilCarpistirma.csproj.GenerateResource.cache
+C:\Users\Reyhan\Desktop\Project\SekilCarpistirma\obj\Debug\SekilCarpistirma.csproj.CoreCompileInputs.cache
+C:\Users\Reyhan\Desktop\Project\SekilCarpistirma\obj\Debug\SekilCarpistirma.exe
+C:\Users\Reyhan\Desktop\Project\SekilCarpistirma\obj\Debug\SekilCarpistirma.pdb
