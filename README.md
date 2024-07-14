@@ -1,1 +1,1 @@
-Kullanıcıdan alınan koordinat ve boyut bilgileriyle şeklin form ekranında çizdirilmesi, ardından şekillerin koordinat sisteminde birbiriyle çarpışma durumunun kontrolü sağlandı.
+Kullanıcıdan alınan koordinat ve boyut bilgileriyle şeklin form ekranında çizdirilmesi ve ardından şekillerin koordinat sisteminde birbiriyle çarpışma durumunun kontrolü sağlandı. C# form elemanları, kalıtım yapıları kullanıldı.
